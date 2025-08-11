@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "SRE_Test",
+			"path": "../SRE_Test"
+		}
+	],
+	"settings": {}
+}
